@@ -3,6 +3,74 @@ body {
     padding: 0;
 }
 
+/*header-part start start*/
+.header-part {
+    padding: 70px 0px 70px 0px;
+}
+
+/*its for menu-part*/
+.menu ul li {
+    padding: 0px 5px 0px 90px;
+}
+
+.menu a {
+    font-family: 'Playfair Display';
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 500;
+    color: #000000;
+}
+
+/*header-part start end*/
+/*banner-part start*/
+.banner-part img {
+    padding: 0px 20px 0px 20px;
+}
+
+/*banner-part end*/
+/*content-part start*/
+.content-part {
+    padding-left: 12%;
+    padding-top: 6%;
+}
+
+.content-part h5 {
+    font-size: 14px;
+    font-family: 'Ubuntu';
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    color: #bdb9b9;
+    font-weight: 400;
+}
+
+.content-part h2 {
+    font-size: 30px;
+    font-family: 'Playfair Display';
+    margin-bottom: 20px;
+    color: #747272;
+    font-weight: 600;
+}
+
+.content-part p {
+    font-size: 15px;
+    width: 105%;
+    font-family: 'Playfair Display';
+    font-weight: 300;
+    line-height: 1.9;
+    color: #838282;
+}
+
+.content-part h4 {
+    font-size: 13px;
+    font-family: 'Ubuntu';
+    text-transform: uppercase;
+    margin-top: 30px;
+    color: #bdb9b9;
+    font-weight: 400;
+}
+
+/*content-part end*/
+
 
 
 /*font-family: 'Playfair Display', serif;*/
