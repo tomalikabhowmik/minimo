@@ -30,7 +30,7 @@ body {
 /*banner-part end*/
 /*content-part start*/
 .content-part {
-    padding-left: 12%;
+    margin-left: 13%;
     padding-top: 6%;
 }
 
@@ -47,13 +47,13 @@ body {
     font-size: 30px;
     font-family: 'Playfair Display';
     margin-bottom: 20px;
-    color: #747272;
+    color: #626262;
     font-weight: 600;
 }
 
 .content-part p {
-    font-size: 15px;
-    width: 105%;
+    font-size: 14px;
+    width: 99%;
     font-family: 'Playfair Display';
     font-weight: 300;
     line-height: 1.9;
@@ -70,6 +70,50 @@ body {
 }
 
 /*content-part end*/
+/*lifestyle-photodiary-part*/
+.lifestyle-photodiary-part {
+    padding-left: 13%;
+    padding-top: 6%;
+}
+
+.lifestyle-photodiary-part img {
+    margin-right: 50px;
+}
+
+.lifestyle-photodiary-part h5 {
+    font-size: 14px;
+    font-family: 'Ubuntu';
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    color: #bdb9b9;
+    font-weight: 400;
+    margin-top: 30px;
+}
+
+.lifestyle-photodiary-part h2 {
+    font-size: 29px;
+    font-family: 'Playfair Display';
+    color: #626262;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.lifestyle-photodiary-part p {
+    font-size: 14px;
+    width: 97%;
+    font-family: 'Playfair Display';
+    font-weight: 300;
+    line-height: 1.9;
+    color: #838282;
+}
+
+/*its for photodiary*/
+.photodiary {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/*lifestyle-photodiary-end*/
 
 
 
