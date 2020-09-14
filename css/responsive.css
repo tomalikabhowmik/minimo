@@ -83,10 +83,38 @@
     /*its for photodiary*/
     .photodiary {
         margin-top: 10px;
-        margin-bottom: 40px;
+        margin-bottom: 20px;
     }
 
     /*lifestyle-photodiary-end*/
+    /*signup-part start*/
+    .signup-part {
+        background-color: #f0f0f0;
+        padding: 25px 0px 15px 0px;
+    }
+
+    .signup-part h2 {
+        margin-bottom: 25px;
+        font-size: 15px;
+    }
+
+    /*its for send-part*/
+    .send-part ul li {
+        padding: 0px 15px;
+    }
+
+    .send-part a {
+        color: #838282;
+        font-size: 9px;
+    }
+
+    .send-part hr {
+        width: 55%;
+        height: 1%;
+        border-top: 1.5px solid #292929;
+    }
+
+    /*signup-part end*/
 }
 
 /* small device(Apple iPhone 7, less than 361px)*/
@@ -178,6 +206,34 @@
     }
 
     /*lifestyle-photodiary-end*/
+    /*signup-part start*/
+    .signup-part {
+        background-color: #f0f0f0;
+        padding: 30px 0px 20px 0px;
+    }
+
+    .signup-part h2 {
+        margin-bottom: 30px;
+        font-size: 16px;
+    }
+
+    /*its for send-part*/
+    .send-part ul li {
+        padding: 0px 15px;
+    }
+
+    .send-part a {
+        color: #838282;
+        font-size: 9px;
+    }
+
+    .send-part hr {
+        width: 55%;
+        height: 1%;
+        border-top: 1.5px solid #292929;
+    }
+
+    /*signup-part end*/
 }
 
 /* small device(Apple iPhone 7 Plus, 361px and up)*/
@@ -259,7 +315,7 @@
     .lifestyle-photodiary-part p {
         font-size: 10px;
         width: 100%;
-        margin-bottom: 25px;
+        margin-bottom: 40px;
     }
 
     /*its for photodiary*/
@@ -269,6 +325,34 @@
     }
 
     /*lifestyle-photodiary-end*/
+    /*signup-part start*/
+    .signup-part {
+        background-color: #f0f0f0;
+        padding: 30px 0px 20px 0px;
+    }
+
+    .signup-part h2 {
+        margin-bottom: 30px;
+        font-size: 16px;
+    }
+
+    /*its for send-part*/
+    .send-part ul li {
+        padding: 0px 15px;
+    }
+
+    .send-part a {
+        color: #838282;
+        font-size: 9px;
+    }
+
+    .send-part hr {
+        width: 49%;
+        height: 1%;
+        border-top: 1.5px solid #292929;
+    }
+
+    /*signup-part end*/
 }
 
 /*Small device(Small Tablet, 576px and up)*/
@@ -355,6 +439,34 @@
     }
 
     /*lifestyle-photodiary-end*/
+    /*signup-part start*/
+    .signup-part {
+        background-color: #f0f0f0;
+        padding: 30px 0px 20px 0px;
+    }
+
+    .signup-part h2 {
+        margin-bottom: 40px;
+        font-size: 17px;
+    }
+
+    /*its for send-part*/
+    .send-part ul li {
+        padding: 0px 20px;
+    }
+
+    .send-part a {
+        color: #838282;
+        font-size: 10px;
+    }
+
+    .send-part hr {
+        width: 40%;
+        height: 1%;
+        border-top: 1.5px solid #292929;
+    }
+
+    /*signup-part end*/
 }
 
 /*medium device(Tablet 768px and up)*/
@@ -426,6 +538,34 @@
     }
 
     /*lifestyle-photodiary-end*/
+    /*signup-part start*/
+    .signup-part {
+        background-color: #f0f0f0;
+        padding: 30px 0px 20px 0px;
+    }
+
+    .signup-part h2 {
+        margin-bottom: 40px;
+        font-size: 17px;
+    }
+
+    /*its for send-part*/
+    .send-part ul li {
+        padding: 0px 20px;
+    }
+
+    .send-part a {
+        color: #838282;
+        font-size: 10px;
+    }
+
+    .send-part hr {
+        width: 30%;
+        height: 1%;
+        border-top: 1.5px solid #292929;
+    }
+
+    /*signup-part end*/
 }
 
 
@@ -480,6 +620,34 @@
     }
 
     /*lifestyle-photodiary-end*/
+    /*signup-part start*/
+    .signup-part {
+        background-color: #f0f0f0;
+        padding: 40px 0px 40px 0px;
+    }
+
+    .signup-part h2 {
+        margin-bottom: 60px;
+        font-size: 25px;
+    }
+
+    /*its for send-part*/
+    .send-part ul li {
+        padding: 0px 40px;
+    }
+
+    .send-part a {
+        color: #838282;
+        font-size: 14px;
+    }
+
+    .send-part hr {
+        width: 32%;
+        height: 1%;
+        border-top: 2px solid #292929;
+    }
+
+    /*signup-part end*/
 }
 
 /*Extra large device(Widescreen,1280px and up)*/

@@ -114,7 +114,39 @@ body {
 }
 
 /*lifestyle-photodiary-end*/
+/*signup-part start*/
+.signup-part {
+    background-color: #f0f0f0;
+    padding: 50px 0px 40px 0px;
+}
 
+.signup-part h2 {
+    margin-bottom: 90px;
+    font-size: 30px;
+    font-family: 'Playfair Display';
+    font-weight: 400;
+}
+
+/*its for send-part*/
+.send-part ul li {
+    padding: 0px 70px;
+}
+
+.send-part a {
+    color: #838282;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: 'Playfair Display';
+    font-weight: 300;
+}
+
+.send-part hr {
+    width: 32%;
+    height: 1%;
+    border-top: 2px solid #292929;
+}
+
+/*signup-part end*/
 
 
 /*font-family: 'Playfair Display', serif;*/
