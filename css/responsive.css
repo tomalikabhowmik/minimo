@@ -115,6 +115,65 @@
     }
 
     /*signup-part end*/
+    /*music-part start*/
+    .music-part {
+        padding-left: 13%;
+        padding-top: 6%;
+        padding-right: 13%;
+    }
+
+    .music-part h5 {
+        font-size: 10px;
+        margin-bottom: 8px;
+        margin-top: 20px;
+    }
+
+    .music-part h2 {
+        font-size: 15px;
+        margin-bottom: 8px;
+    }
+
+    .music-part p {
+        font-size: 8px;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .music-part a {
+        padding: 5px 15px;
+        border: 1px solid #979494;
+        left: 36%;
+        margin-top: 1%;
+        font-size: 10px;
+    }
+
+    /*music-part end*/
+    /*footer-part start*/
+    .footer-part {
+        padding: 5px 0px 4px 0px;
+    }
+
+    /*its for footer-part1*/
+    .footer-part1 a {
+        font-size: 7px;
+    }
+
+    .footer-part1 ul {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    /*its for footer-part2 */
+    .footer-part2 a {
+        font-size: 7px;
+    }
+
+    .footer-part2 ul {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    /*footer-part end*/
 }
 
 /* small device(Apple iPhone 7, less than 361px)*/
@@ -234,6 +293,65 @@
     }
 
     /*signup-part end*/
+    /*music-part start*/
+    .music-part {
+        padding-left: 13%;
+        padding-top: 6%;
+        padding-right: 13%;
+    }
+
+    .music-part h5 {
+        font-size: 10px;
+        margin-bottom: 8px;
+        margin-top: 20px;
+    }
+
+    .music-part h2 {
+        font-size: 17px;
+        margin-bottom: 8px;
+    }
+
+    .music-part p {
+        font-size: 10px;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .music-part a {
+        padding: 5px 15px;
+        border: 1px solid #979494;
+        left: 36%;
+        margin-top: 3%;
+        font-size: 12px;
+    }
+
+    /*music-part end*/
+    /*footer-part start*/
+    .footer-part {
+        padding: 6px 0px 5px 0px;
+    }
+
+    /*its for footer-part1*/
+    .footer-part1 a {
+        font-size: 8px;
+    }
+
+    .footer-part1 ul {
+        padding-left: 10px;
+        padding-right: 5px;
+    }
+
+    /*its for footer-part2 */
+    .footer-part2 a {
+        font-size: 8px;
+    }
+
+    .footer-part2 ul {
+        padding-right: 10px;
+        padding-left: 5px;
+    }
+
+    /*footer-part end*/
 }
 
 /* small device(Apple iPhone 7 Plus, 361px and up)*/
@@ -353,6 +471,65 @@
     }
 
     /*signup-part end*/
+    /*music-part start*/
+    .music-part {
+        padding-left: 13%;
+        padding-top: 6%;
+        padding-right: 13%;
+    }
+
+    .music-part h5 {
+        font-size: 10px;
+        margin-bottom: 8px;
+        margin-top: 20px;
+    }
+
+    .music-part h2 {
+        font-size: 17px;
+        margin-bottom: 8px;
+    }
+
+    .music-part p {
+        font-size: 10px;
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .music-part a {
+        padding: 5px 15px;
+        border: 1px solid #636262;
+        left: 36%;
+        margin-top: 3%;
+        font-size: 12px;
+    }
+
+    /*music-part end*/
+    /*footer-part start*/
+    .footer-part {
+        padding: 8px 0px 5px 0px;
+    }
+
+    /*its for footer-part1*/
+    .footer-part1 a {
+        font-size: 8px;
+    }
+
+    .footer-part1 ul {
+        padding-left: 10px;
+        padding-right: 5px;
+    }
+
+    /*its for footer-part2 */
+    .footer-part2 a {
+        font-size: 8px;
+    }
+
+    .footer-part2 ul {
+        padding-right: 10px;
+        padding-left: 5px;
+    }
+
+    /*footer-part end*/
 }
 
 /*Small device(Small Tablet, 576px and up)*/
@@ -467,6 +644,63 @@
     }
 
     /*signup-part end*/
+    /*music-part start*/
+    .music-part {
+        padding-left: 13%;
+        padding-top: 6%;
+        padding-bottom: 20%;
+
+    }
+
+    .music-part h5 {
+        font-size: 8px;
+        margin-bottom: 10px;
+        margin-top: 25px;
+    }
+
+    .music-part h2 {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+
+    .music-part p {
+        font-size: 8px;
+        width: 100%;
+    }
+
+    .music-part a {
+        padding: 5px 20px;
+        border: 1px solid #636262;
+        left: 34%;
+        margin-top: 8%;
+        font-size: 14px;
+    }
+
+    /*music-part end*/
+    /*footer-part start*/
+    .footer-part {
+        padding: 10px 0px 5px 0px;
+    }
+
+    /*its for footer-part1*/
+    .footer-part1 a {
+        font-size: 10px;
+    }
+
+    .footer-part1 ul {
+        padding-left: 20px;
+    }
+
+    /*its for footer-part2 */
+    .footer-part2 a {
+        font-size: 10px;
+    }
+
+    .footer-part2 ul {
+        padding-right: 20px;
+    }
+
+    /*footer-part end*/
 }
 
 /*medium device(Tablet 768px and up)*/
@@ -566,6 +800,62 @@
     }
 
     /*signup-part end*/
+    /*music-part start*/
+    .music-part {
+        padding-left: 13%;
+        padding-top: 6%;
+
+    }
+
+    .music-part h5 {
+        font-size: 10px;
+        margin-bottom: 10px;
+        margin-top: 25px;
+    }
+
+    .music-part h2 {
+        font-size: 17px;
+        margin-bottom: 10px;
+    }
+
+    .music-part p {
+        font-size: 10px;
+        width: 98%;
+    }
+
+    .music-part a {
+        padding: 10px 30px;
+        border: 1px solid #636262;
+        left: 34%;
+        margin-top: 8%;
+        font-size: 15px;
+    }
+
+    /*music-part end*/
+    /*footer-part start*/
+    .footer-part {
+        padding: 10px 0px 5px 0px;
+    }
+
+    /*its for footer-part1*/
+    .footer-part1 a {
+        font-size: 13px;
+    }
+
+    .footer-part1 ul {
+        padding-left: 20px;
+    }
+
+    /*its for footer-part2 */
+    .footer-part2 a {
+        font-size: 13px;
+    }
+
+    .footer-part2 ul {
+        padding-right: 20px;
+    }
+
+    /*footer-part end*/
 }
 
 
@@ -648,6 +938,39 @@
     }
 
     /*signup-part end*/
+    /*music-part start*/
+    .music-part {
+        padding-left: 13%;
+        padding-top: 6%;
+
+    }
+
+    .music-part h5 {
+        font-size: 13px;
+        margin-bottom: 15px;
+        margin-top: 30px;
+    }
+
+    .music-part h2 {
+        font-size: 23px;
+        margin-bottom: 20px;
+        margin-bottom: 15px;
+    }
+
+    .music-part p {
+        font-size: 11px;
+        width: 98%;
+    }
+
+    .music-part a {
+        padding: 10px 35px;
+        border: 1px solid #636262;
+        left: 34%;
+        margin-top: 8%;
+        font-size: 17px;
+    }
+
+    /*music-part end*/
 }
 
 /*Extra large device(Widescreen,1280px and up)*/

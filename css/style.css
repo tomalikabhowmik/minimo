@@ -5,7 +5,7 @@ body {
 
 /*header-part start start*/
 .header-part {
-    padding: 70px 0px 70px 0px;
+    padding: 70px 0px 50px 0px;
 }
 
 /*its for menu-part*/
@@ -143,11 +143,93 @@ body {
 .send-part hr {
     width: 32%;
     height: 1%;
-    border-top: 2px solid #292929;
+    border-top: 1.5px solid #292929;
 }
 
 /*signup-part end*/
+/*music-part start*/
+.music-part {
+    padding-left: 13%;
+    padding-top: 6%;
+    padding-bottom: 15%;
+    position: relative;
+}
 
+.music-part img {
+    margin-right: 50px;
+}
 
-/*font-family: 'Playfair Display', serif;*/
-/*font-family: 'Ubuntu', sans-serif;*/
+.music-part h5 {
+    font-size: 14px;
+    font-family: 'Ubuntu';
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    color: #bdb9b9;
+    font-weight: 400;
+    margin-top: 30px;
+}
+
+.music-part h2 {
+    font-size: 29px;
+    font-family: 'Playfair Display';
+    color: #626262;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.music-part p {
+    font-size: 14px;
+    width: 97%;
+    font-family: 'Playfair Display';
+    font-weight: 300;
+    line-height: 1.9;
+    color: #838282;
+}
+
+.music-part a {
+    padding: 15px 40px;
+    border: 1px solid #636262;
+    position: absolute;
+    left: 34%;
+    margin-top: 8%;
+    color: #636161;
+    text-decoration: none;
+    font-family: 'Playfair Display';
+    font-size: 18px;
+    font-weight: 500;
+}
+
+/*music-part end*/
+/*footer-part start*/
+.footer-part {
+    background-color: #f0f0f0;
+    padding: 20px 0px 10px 0px;
+}
+
+/*its for footer-part1*/
+.footer-part1 a {
+    color: #636161;
+    font-size: 15px;
+    text-decoration: none;
+    font-family: 'Playfair Display';
+    font-weight: 500;
+}
+
+.footer-part1 ul li {
+    padding-right: 10px;
+}
+
+/*its for footer-part2 */
+.footer-part2 a {
+    color: #636161;
+    font-size: 15px;
+    text-decoration: none;
+    font-family: 'Playfair Display';
+    font-weight: 500;
+}
+
+.footer-part2 ul li {
+    padding-left: 10px;
+}
+
+/*footer-part end*/
